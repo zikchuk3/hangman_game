@@ -1,5 +1,5 @@
 '''
-Author: Zikora C
+Author: Zikora 
 Program title: HangShelly
 Program description: This is a game of Hangman, but I called it "HangShelly" so it can be Madeira themed.
 
@@ -355,3 +355,4 @@ def main():
         restart(y_or_n)
 
 main()
+
